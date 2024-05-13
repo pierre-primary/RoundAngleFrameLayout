@@ -1,5 +1,4 @@
 ##android 通用圆角控件
-<h3><font color="#ff00000">红色字为总结日记－－写给未来的我</font></h3>
 
 圆角控件就是对 View的Canvas进行改变轮廓的处理
 <font color="#ff00000">
